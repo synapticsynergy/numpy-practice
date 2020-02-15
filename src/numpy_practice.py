@@ -15,4 +15,4 @@ def array_shape(np_array):
 
 def reshape_array(np_array, shape):
     np_array.shape = shape
-    return np_array.shape
+    return np_array

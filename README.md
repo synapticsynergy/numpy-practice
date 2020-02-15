@@ -12,5 +12,5 @@ pip install -r requirements.txt
 ## Running Tests
 
 ```
-python -m pytest tests
+python -m pytest --testdox tests
 ```
